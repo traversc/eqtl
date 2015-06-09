@@ -1,0 +1,1 @@
+{"name":["chr12:25600K-25700K","SLC2A13","BCDIN3D","chr12:51200K-51300K","SPRYD3","chr12:55200K-55300K","DCTN2","CSRP2","chr12:86700K-86800K","MAPKAPK5","chr12:119100K-119200K"],"group":[1,2,2,1,2,1,2,2,1,2,1],"source":[2,2,7,6,9,1,4],"target":[10,8,3,5,5,0,0],"n_nodes":11,"n_edges":7,"plot_label":"Chromosome 12"}

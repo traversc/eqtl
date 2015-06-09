@@ -1,0 +1,1 @@
+{"name":["chr10:10800K-10900K","SEPHS1","chr10:31400K-31500K","chr10:36800K-36900K","chr10:51600K-51700K","CDK1","chr10:64500K-64600K","DDX50","PITX3","COL17A1","DCLRE1A","BCCIP"],"group":[1,2,1,1,1,2,1,2,2,2,2,2],"source":[11,5,9,10,7,8,1],"target":[6,2,4,3,6,4,0],"n_nodes":12,"n_edges":7,"plot_label":"Chromosome 10"}

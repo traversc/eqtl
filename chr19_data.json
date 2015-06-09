@@ -1,0 +1,1 @@
+{"name":["chr19:5800K-5900K","CLPP","chr19:14200K-14300K","chr19:21700K-21800K","UQCRFS1","ZNF570","PPP1R14A","PSMC4","chr19:56000K-56100K","ZSCAN5A"],"group":[1,2,1,1,2,2,2,2,1,2],"source":[1,6,7,4,5,9],"target":[3,2,3,3,0,8],"n_nodes":10,"n_edges":6,"plot_label":"Chromosome 19"}
